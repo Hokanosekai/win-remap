@@ -2,7 +2,7 @@
 
 #SingleInstance force
 
-; Script to remap RAlt + é to print ```\n```
+; Script to remap LAlt + c to print ```\n```
 !c::
 {
   Send "````````````"`
